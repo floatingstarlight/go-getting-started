@@ -7,7 +7,7 @@ This application supports the tutorials for both the [Cedar and Fir generations]
 - [Getting Started on Heroku with Go](https://devcenter.heroku.com/articles/getting-started-with-go)
 - [Getting Started on Heroku Fir with Go](https://devcenter.heroku.com/articles/getting-started-with-go-fir)
 
-## Running Locally
+## Running Locallyff
 
 Make sure you have [Go](http://golang.org/doc/install) version 1.17 or newer and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed.
 
