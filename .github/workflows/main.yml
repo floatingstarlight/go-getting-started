@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [main, master, mengxiao-qa-2]
+    branches: [main, master, mengxiao-qa-2, mengxiao-test-1]
   pull_request:
-    branches: [main, master]
+    branches: [main, master, mengxiao-test-1]
 
 jobs:
   test:
