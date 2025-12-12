@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main, master, mengxiao-test-8]
+    branches: [main, master, mengxiao-qa-2]
   pull_request:
     branches: [main, master]
 
